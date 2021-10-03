@@ -49,3 +49,7 @@ Then you can use it like default windows form messagebox using as follows exampl
     SMDMessage.show("Title", "Message", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Question);
     
    ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/80079235/135741688-8f87e626-2ccc-4ee7-a14e-dcfe6d2ce33d.gif)
+
+Here you can see the Buttons type as in the default C# message box.
+
+![Screenshot_14](https://user-images.githubusercontent.com/80079235/135741792-d7a2437a-55b0-4b6c-9206-6b19eefd2f77.png)
