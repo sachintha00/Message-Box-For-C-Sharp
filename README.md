@@ -23,13 +23,13 @@ as follows
 
 Then you can use it like default windows form messagebox using as follows examples
 
- # INFORMATION MESSAGE
+ # 🎈 INFORMATION MESSAGE
 
     SMDMessage.show("Title", "Message", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Information);
     
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80079235/135741384-782037b5-9189-41fe-bf96-d3c422bc9dac.gif)
 
- # ERROR MESSAGE
+ # 🎈 ERROR MESSAGE
 
     SMDMessage.show("Title", "Message", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Error);
   
