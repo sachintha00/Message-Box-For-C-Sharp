@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MessageBocC_Sharp
 {
-    public partial class Form1 : Form
+    public partial class frmMessage : Form
     {
-        public Form1()
+        public frmMessage()
         {
             InitializeComponent();
         }
