@@ -1,0 +1,14 @@
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\bin\Debug\MessageBocC Sharp.exe.config
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\bin\Debug\MessageBocC Sharp.exe
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\bin\Debug\MessageBocC Sharp.pdb
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\bin\Debug\SMDMessageBox.dll
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\obj\Debug\MessageBocC Sharp.csprojAssemblyReference.cache
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\obj\Debug\MessageBocC_Sharp.frmMessage.resources
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\obj\Debug\MessageBocC_Sharp.Properties.Resources.resources
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\obj\Debug\MessageBocC Sharp.csproj.GenerateResource.cache
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\obj\Debug\MessageBocC Sharp.csproj.CoreCompileInputs.cache
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\obj\Debug\MessageBocC Sharp.csproj.CopyComplete
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\obj\Debug\MessageBocC Sharp.exe
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\obj\Debug\MessageBocC Sharp.pdb
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\bin\Debug\Guna.UI.dll
+E:\C# PROJECTS\gitUpload\Message-Box-C-\Sample Project\MessageBocC Sharp\MessageBocC Sharp\bin\Debug\Guna.UI2.dll
