@@ -20,3 +20,9 @@ as follows
 as follows
 
 ![Screenshot_13](https://user-images.githubusercontent.com/80079235/135741082-d23f942f-8c83-4d37-a950-4faf569d57bf.png)
+
+Then you can use it like default windows form messagebox using as follows examples
+
+    SMDMessage.show("Title", "Message", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Information);
+    
+    ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80079235/135741384-782037b5-9189-41fe-bf96-d3c422bc9dac.gif)
