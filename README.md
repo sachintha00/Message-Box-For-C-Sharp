@@ -28,16 +28,24 @@ Then you can use it like default windows form messagebox using as follows exampl
     SMDMessage.show("Title", "Message", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Information);
     
    ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80079235/135741384-782037b5-9189-41fe-bf96-d3c422bc9dac.gif)
+   
 
  # 🎈 ERROR MESSAGE
 
     SMDMessage.show("Title", "Message", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Error);
   
    ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/80079235/135741463-10b55d99-ea29-4742-978b-9ab0299f1ccb.gif)
+   
   
    # 🎈 WARNING MESSAGE
 
-    SMDMessage.show("Title", "Message", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.WARNING);
+    SMDMessage.show("Title", "Message", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Warning);
     
    ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/80079235/135741569-628e4ac4-b092-4b59-914c-ba2732db2f92.gif)
+   
 
+   # 🎈 QUESTION MESSAGE
+
+    SMDMessage.show("Title", "Message", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Question);
+    
+   ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/80079235/135741688-8f87e626-2ccc-4ee7-a14e-dcfe6d2ce33d.gif)
