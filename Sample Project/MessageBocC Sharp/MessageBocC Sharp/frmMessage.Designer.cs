@@ -33,9 +33,7 @@
             this.guna2ControlBox1 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.btnError = new Guna.UI.WinForms.GunaButton();
             this.btnWarning = new Guna.UI.WinForms.GunaButton();
-            this.btnStop = new Guna.UI.WinForms.GunaButton();
             this.gunaButton1 = new Guna.UI.WinForms.GunaButton();
-            this.gunaButton2 = new Guna.UI.WinForms.GunaButton();
             this.SuspendLayout();
             // 
             // btnInformation
@@ -59,7 +57,7 @@
             this.btnInformation.OnPressedColor = System.Drawing.Color.Black;
             this.btnInformation.Size = new System.Drawing.Size(206, 75);
             this.btnInformation.TabIndex = 0;
-            this.btnInformation.Text = "gunaButton1";
+            this.btnInformation.Text = "INFORMATION";
             this.btnInformation.Click += new System.EventHandler(this.btnInformation_Click_1);
             // 
             // guna2ControlBox1
@@ -68,7 +66,7 @@
             this.guna2ControlBox1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(139)))), ((int)(((byte)(152)))), ((int)(((byte)(166)))));
             this.guna2ControlBox1.HoverState.Parent = this.guna2ControlBox1;
             this.guna2ControlBox1.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox1.Location = new System.Drawing.Point(541, -1);
+            this.guna2ControlBox1.Location = new System.Drawing.Point(506, -1);
             this.guna2ControlBox1.Name = "guna2ControlBox1";
             this.guna2ControlBox1.ShadowDecoration.Parent = this.guna2ControlBox1;
             this.guna2ControlBox1.Size = new System.Drawing.Size(82, 47);
@@ -95,7 +93,7 @@
             this.btnError.OnPressedColor = System.Drawing.Color.Black;
             this.btnError.Size = new System.Drawing.Size(206, 75);
             this.btnError.TabIndex = 0;
-            this.btnError.Text = "gunaButton1";
+            this.btnError.Text = "ERROR";
             this.btnError.Click += new System.EventHandler(this.btnError_Click);
             // 
             // btnWarning
@@ -110,7 +108,7 @@
             this.btnWarning.ForeColor = System.Drawing.Color.White;
             this.btnWarning.Image = ((System.Drawing.Image)(resources.GetObject("btnWarning.Image")));
             this.btnWarning.ImageSize = new System.Drawing.Size(20, 20);
-            this.btnWarning.Location = new System.Drawing.Point(66, 321);
+            this.btnWarning.Location = new System.Drawing.Point(301, 223);
             this.btnWarning.Name = "btnWarning";
             this.btnWarning.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.btnWarning.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -119,32 +117,8 @@
             this.btnWarning.OnPressedColor = System.Drawing.Color.Black;
             this.btnWarning.Size = new System.Drawing.Size(206, 75);
             this.btnWarning.TabIndex = 0;
-            this.btnWarning.Text = "gunaButton1";
+            this.btnWarning.Text = "WARNING";
             this.btnWarning.Click += new System.EventHandler(this.btnWarning_Click);
-            // 
-            // btnStop
-            // 
-            this.btnStop.AnimationHoverSpeed = 0.07F;
-            this.btnStop.AnimationSpeed = 0.03F;
-            this.btnStop.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            this.btnStop.BorderColor = System.Drawing.Color.Black;
-            this.btnStop.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.btnStop.FocusedColor = System.Drawing.Color.Empty;
-            this.btnStop.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.btnStop.ForeColor = System.Drawing.Color.White;
-            this.btnStop.Image = ((System.Drawing.Image)(resources.GetObject("btnStop.Image")));
-            this.btnStop.ImageSize = new System.Drawing.Size(20, 20);
-            this.btnStop.Location = new System.Drawing.Point(322, 125);
-            this.btnStop.Name = "btnStop";
-            this.btnStop.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
-            this.btnStop.OnHoverBorderColor = System.Drawing.Color.Black;
-            this.btnStop.OnHoverForeColor = System.Drawing.Color.White;
-            this.btnStop.OnHoverImage = null;
-            this.btnStop.OnPressedColor = System.Drawing.Color.Black;
-            this.btnStop.Size = new System.Drawing.Size(206, 75);
-            this.btnStop.TabIndex = 0;
-            this.btnStop.Text = "gunaButton1";
-            this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
             // gunaButton1
             // 
@@ -158,7 +132,7 @@
             this.gunaButton1.ForeColor = System.Drawing.Color.White;
             this.gunaButton1.Image = ((System.Drawing.Image)(resources.GetObject("gunaButton1.Image")));
             this.gunaButton1.ImageSize = new System.Drawing.Size(20, 20);
-            this.gunaButton1.Location = new System.Drawing.Point(322, 223);
+            this.gunaButton1.Location = new System.Drawing.Point(301, 125);
             this.gunaButton1.Name = "gunaButton1";
             this.gunaButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.gunaButton1.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -167,42 +141,16 @@
             this.gunaButton1.OnPressedColor = System.Drawing.Color.Black;
             this.gunaButton1.Size = new System.Drawing.Size(206, 75);
             this.gunaButton1.TabIndex = 0;
-            this.gunaButton1.Text = "gunaButton1";
-            this.gunaButton1.Click += new System.EventHandler(this.btnStop_Click);
-            // 
-            // gunaButton2
-            // 
-            this.gunaButton2.AnimationHoverSpeed = 0.07F;
-            this.gunaButton2.AnimationSpeed = 0.03F;
-            this.gunaButton2.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            this.gunaButton2.BorderColor = System.Drawing.Color.Black;
-            this.gunaButton2.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.gunaButton2.FocusedColor = System.Drawing.Color.Empty;
-            this.gunaButton2.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.gunaButton2.ForeColor = System.Drawing.Color.White;
-            this.gunaButton2.Image = ((System.Drawing.Image)(resources.GetObject("gunaButton2.Image")));
-            this.gunaButton2.ImageSize = new System.Drawing.Size(20, 20);
-            this.gunaButton2.Location = new System.Drawing.Point(322, 321);
-            this.gunaButton2.Name = "gunaButton2";
-            this.gunaButton2.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
-            this.gunaButton2.OnHoverBorderColor = System.Drawing.Color.Black;
-            this.gunaButton2.OnHoverForeColor = System.Drawing.Color.White;
-            this.gunaButton2.OnHoverImage = null;
-            this.gunaButton2.OnPressedColor = System.Drawing.Color.Black;
-            this.gunaButton2.Size = new System.Drawing.Size(206, 75);
-            this.gunaButton2.TabIndex = 0;
-            this.gunaButton2.Text = "gunaButton1";
-            this.gunaButton2.Click += new System.EventHandler(this.btnStop_Click);
+            this.gunaButton1.Text = "QUESTION";
+            this.gunaButton1.Click += new System.EventHandler(this.btnQuestion);
             // 
             // frmMessage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(624, 508);
+            this.ClientSize = new System.Drawing.Size(589, 378);
             this.Controls.Add(this.guna2ControlBox1);
-            this.Controls.Add(this.gunaButton2);
             this.Controls.Add(this.gunaButton1);
-            this.Controls.Add(this.btnStop);
             this.Controls.Add(this.btnWarning);
             this.Controls.Add(this.btnError);
             this.Controls.Add(this.btnInformation);
@@ -219,9 +167,7 @@
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox1;
         private Guna.UI.WinForms.GunaButton btnError;
         private Guna.UI.WinForms.GunaButton btnWarning;
-        private Guna.UI.WinForms.GunaButton btnStop;
         private Guna.UI.WinForms.GunaButton gunaButton1;
-        private Guna.UI.WinForms.GunaButton gunaButton2;
     }
 }
 

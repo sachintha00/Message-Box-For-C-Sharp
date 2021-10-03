@@ -33,9 +33,14 @@ namespace MessageBocC_Sharp
             SMDMessage.show("Error", "Username or Password incorrect", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Warning);
         }
 
+        private void btnQuestion(object sender, EventArgs e)
+        {
+            SMDMessage.show("Error", "Username or Password incorrect", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Question);
+        }
+
         private void btnStop_Click(object sender, EventArgs e)
         {
-            SMDMessage.show("Error", "Username or Password incorrect", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Stop);
+
         }
     }
 }
