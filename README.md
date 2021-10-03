@@ -11,6 +11,8 @@ You must add this dll to your project before using it.
 
 as follows
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/80079235/135741176-4262c2ac-5015-4506-81bc-76ad4ea2bcc0.gif)
+
 👉Then you need to import this code segment
 
     using SMDMessageBox;
