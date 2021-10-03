@@ -20,22 +20,22 @@ namespace MessageBocC_Sharp
 
         private void btnInformation_Click_1(object sender, EventArgs e)
         {
-            SMDMessage.show("Error", "Username or Password incorrect", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Information);
+            SMDMessage.show("Title", "Information", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Information);
         }
 
         private void btnError_Click(object sender, EventArgs e)
         {
-            SMDMessage.show("Error", "Username or Password incorrect", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Error);
+            SMDMessage.show("Title", "Error", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Error);
         }
 
         private void btnWarning_Click(object sender, EventArgs e)
         {
-            SMDMessage.show("Error", "Username or Password incorrect", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Warning);
+            SMDMessage.show("Title", "Warning", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Warning);
         }
 
         private void btnQuestion(object sender, EventArgs e)
         {
-            SMDMessage.show("Error", "Username or Password incorrect", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Question);
+            SMDMessage.show("Title", "Question", SMDMessageBoxButtons.OK, SMDMessageBoxIcon.Question);
         }
 
         private void btnStop_Click(object sender, EventArgs e)

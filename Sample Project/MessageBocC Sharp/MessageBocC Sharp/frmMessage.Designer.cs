@@ -40,7 +40,7 @@
             // 
             this.btnInformation.AnimationHoverSpeed = 0.07F;
             this.btnInformation.AnimationSpeed = 0.03F;
-            this.btnInformation.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.btnInformation.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(61)))), ((int)(((byte)(93)))), ((int)(((byte)(168)))));
             this.btnInformation.BorderColor = System.Drawing.Color.Black;
             this.btnInformation.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btnInformation.FocusedColor = System.Drawing.Color.Empty;
@@ -50,7 +50,7 @@
             this.btnInformation.ImageSize = new System.Drawing.Size(20, 20);
             this.btnInformation.Location = new System.Drawing.Point(66, 125);
             this.btnInformation.Name = "btnInformation";
-            this.btnInformation.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
+            this.btnInformation.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(61)))), ((int)(((byte)(93)))), ((int)(((byte)(168)))));
             this.btnInformation.OnHoverBorderColor = System.Drawing.Color.Black;
             this.btnInformation.OnHoverForeColor = System.Drawing.Color.White;
             this.btnInformation.OnHoverImage = null;
@@ -76,7 +76,7 @@
             // 
             this.btnError.AnimationHoverSpeed = 0.07F;
             this.btnError.AnimationSpeed = 0.03F;
-            this.btnError.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.btnError.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(122)))), ((int)(((byte)(126)))));
             this.btnError.BorderColor = System.Drawing.Color.Black;
             this.btnError.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btnError.FocusedColor = System.Drawing.Color.Empty;
@@ -86,7 +86,7 @@
             this.btnError.ImageSize = new System.Drawing.Size(20, 20);
             this.btnError.Location = new System.Drawing.Point(66, 223);
             this.btnError.Name = "btnError";
-            this.btnError.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
+            this.btnError.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(122)))), ((int)(((byte)(126)))));
             this.btnError.OnHoverBorderColor = System.Drawing.Color.Black;
             this.btnError.OnHoverForeColor = System.Drawing.Color.White;
             this.btnError.OnHoverImage = null;
@@ -100,7 +100,7 @@
             // 
             this.btnWarning.AnimationHoverSpeed = 0.07F;
             this.btnWarning.AnimationSpeed = 0.03F;
-            this.btnWarning.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.btnWarning.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(188)))), ((int)(((byte)(56)))));
             this.btnWarning.BorderColor = System.Drawing.Color.Black;
             this.btnWarning.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btnWarning.FocusedColor = System.Drawing.Color.Empty;
@@ -110,7 +110,7 @@
             this.btnWarning.ImageSize = new System.Drawing.Size(20, 20);
             this.btnWarning.Location = new System.Drawing.Point(301, 223);
             this.btnWarning.Name = "btnWarning";
-            this.btnWarning.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
+            this.btnWarning.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(188)))), ((int)(((byte)(56)))));
             this.btnWarning.OnHoverBorderColor = System.Drawing.Color.Black;
             this.btnWarning.OnHoverForeColor = System.Drawing.Color.White;
             this.btnWarning.OnHoverImage = null;
@@ -124,7 +124,7 @@
             // 
             this.gunaButton1.AnimationHoverSpeed = 0.07F;
             this.gunaButton1.AnimationSpeed = 0.03F;
-            this.gunaButton1.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.gunaButton1.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(40)))), ((int)(((byte)(80)))));
             this.gunaButton1.BorderColor = System.Drawing.Color.Black;
             this.gunaButton1.DialogResult = System.Windows.Forms.DialogResult.None;
             this.gunaButton1.FocusedColor = System.Drawing.Color.Empty;
@@ -134,7 +134,7 @@
             this.gunaButton1.ImageSize = new System.Drawing.Size(20, 20);
             this.gunaButton1.Location = new System.Drawing.Point(301, 125);
             this.gunaButton1.Name = "gunaButton1";
-            this.gunaButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
+            this.gunaButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(40)))), ((int)(((byte)(80)))));
             this.gunaButton1.OnHoverBorderColor = System.Drawing.Color.Black;
             this.gunaButton1.OnHoverForeColor = System.Drawing.Color.White;
             this.gunaButton1.OnHoverImage = null;
